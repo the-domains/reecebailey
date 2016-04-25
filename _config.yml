@@ -1,0 +1,28 @@
+name: ReeceBailey
+favicon: null
+layout_spectrum: 0.16285401652567089
+typography_spectrum: 0.23570663132704794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7611441386397928
+  lightness: 0.39949841354973614
+  saturation: 0.02053754823282361
+  rhythmicContrast: 0.14088505180552602
+purpose: []
